@@ -1,6 +1,6 @@
 name,ring,quadrant,isNew,description
 Allure Test OPS,Adopt,Tools,False ,наша система тест менеджемента 
-IntelliJ Idea,Adopt,Tools,
+IntelliJ Idea,Adopt,Tools,False,
 Kibana,Adopt,Tools,False ,работаем с логами сервисов 
 PL/SQL Developer,Adopt,Tools,False ,раобтаем с БД
 Gitlab,Adopt,Tools,TRUE,
