@@ -1,30 +1,26 @@
 name,ring,quadrant,isNew,description
 Allure Test OPS,Adopt,Tools,False ,наша система тест менеджемента 
 Kibana,Adopt,Tools,False ,работаем с логами сервисов 
-Grafana,Adopt,Tools,False ,работаем с метриками сервисов
 PL/SQL Developer,Adopt,Tools,False ,раобтаем с БД
 Gitlab,Adopt,Tools,TRUE,
 Git,Adopt,Tools,False ,
 Maven,Adopt,Tools,False ,Используем при автоматизации тест-кейсов
-TestNG,Adopt,Tools,False ,Используем при автоматизации тест-кейсов
-Jenkins,Adopt,Tools,False ,
+JUnit5,Adopt,Tools,False ,Используем при автоматизации тест-кейсов
 Jira,Adopt,Tools,False ,
+BPM Comunda,Adopt,Tools,False ,
 Vault,Adopt,Tools,False ,
 SoapUI,Hold,Tools,False ,это древнее зло ещё попадается в некоторых командах
 Postman,Hold,Tools,False ,для тестирования API
 DBeaver,Adopt,Tools,False ,для подключения к Ignite
-BloomRPC,Adopt,Tools,False ,для тестирования сервисов gRPC
 Swagger,Adopt,Tools,False ,
 Confluence,Adopt,Tools,False ,база знаний
-TrankBased Development,Assess,Techniques,TRUE,сейчас одна из команд работает с данным подходом. в будущем можем взять на вооружение
-shift left testing,Adopt,Techniques,False ,практика есть в других командах. готовы перенимать
+TrankBased Development,Adopt,Techniques,TRUE,
+shift left testing,Adopt,Techniques,False ,
 3 амиго,Adopt,Techniques,TRUE,
-Kanban метод,Adopt,Techniques,TRUE,хотим придти в будущем к нему
+Kanban метод,Adopt,Techniques,TRUE,
 daily,Adopt,Techniques,False ,
-Load testing,Assess,Techniques,False ,есть экспертиза внутри компании. потихоньку утаскиваем в свои команды
 Kafka,Adopt,Platforms,False ,
 Docker,Adopt,Platforms,False ,
-Cassandra,Adopt,Platforms,False ,
 Oracle,Adopt,Platforms,False ,
 Ignite,Adopt,Platforms,False ,
 Java 11,Adopt,Programming Languages and Frameworks,False ,
